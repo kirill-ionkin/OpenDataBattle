@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 News/lstm_model_v1.pt
 News/lstm_model_v1_submit1.csv
+finall_1_task/catboost_data
